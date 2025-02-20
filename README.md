@@ -3,7 +3,7 @@
 👀 I’m interested in AI, Machine Learning and Cyber Security.
   Furthermore, I would also be interested in app programming and game design.👀
 
-🌱 I’m currently learning JAVA and HTML.🌱
+🌱 I’m currently learning C#.🌱
 
 👽Pronouns: <br>
 🛸 I am creative, imaginative, humorous, fond of animals, and connected to nature. <br>
