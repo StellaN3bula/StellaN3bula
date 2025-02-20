@@ -1,26 +1,22 @@
- 👋 Hi, I’m Stella N3bula 👩‍🚀
--
-👀 I’m interested in AI, Machine Learning and Cyber Security.
-  Furthermore, I would also be interested in app programming and game design.👀
+### 🚀 Hi, I’m Stella N3bula 👩‍🚀  
 
-🌱 I’m currently learning C#.🌱
+👀 **Passionate about AI, Machine Learning & Cybersecurity** – also exploring app development & game design.  
+🌱 **Currently learning C#** and expanding my coding universe.  
+💡 **Driven by curiosity, creativity, and a love for tech.**  
 
-👽Pronouns: <br>
-🛸 I am creative, imaginative, humorous, fond of animals, and connected to nature. <br>
-      🛸The most important values for me are honesty, loyalty, and integrity!
- <br><br>
-How did I get into programming: <br>
-Even as a teenager, I was fascinated by programming and always admired those who could do it. 
-Inspired by the movie "Hackers," I always wanted to learn it myself. 
-Due to certain circumstances, my dream of programming would only come true in November 2023. 
-That's when I started my course in HTML and Java.
-<br><br>
-🤖 Fun fact: I'm a creative chaos.🤖
+### 👽 Who am I?  
+🛸 A creative mind with a passion for innovation.  
+🛸 Animal lover, nature enthusiast & fueled by imagination.  
+🛸 My core values: **Honesty, Loyalty & Integrity.**  
 
-<br>
-📫 How to reach me: <br>
-please contact me here.
+### 🤖 How did I get into programming?  
+Ever since I was a teenager, I admired programmers and dreamed of coding myself. The movie **"Hackers"** sparked my fascination, but it wasn’t until **November 2023** that I finally embarked on my journey—starting with **HTML & Java**. Now, I’m diving deep into **C#** and beyond!  
 
+### ⚡ Fun fact:  
+I thrive in **creative chaos** – where the best ideas are born!  
+
+### 📫 How to reach me:  
+Feel free to connect with me here on GitHub!  
 
 
   
