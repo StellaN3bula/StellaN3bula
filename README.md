@@ -10,7 +10,7 @@
 🛸 My core values: **Honesty, Loyalty & Integrity.**  
 
 ### 🤖 How did I get into programming?  
-Ever since I was a teenager, I admired programmers and dreamed of coding myself. The movie **"Hackers"** sparked my fascination, but it wasn’t until **November 2023** that I finally embarked on my journey—starting with **HTML & Java**. Now, I’m diving deep into **C#** and beyond!  
+Ever since I was a teenager, I admired programmers and dreamed of coding myself. The movie **"Hackers"** sparked my fascination, but it wasn’t until **November 2023** that I finally embarked on my journey. Now, I’m diving deep into **C#** and beyond!  
 
 ### ⚡ Fun fact:  
 I thrive in **creative chaos** – where the best ideas are born!  
