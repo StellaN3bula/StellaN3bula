@@ -1,4 +1,4 @@
-### 🚀 Hi, I’m Stella N3bula 👩‍🚀  
+### 🚀 Hi @ all👩‍🚀  
 
 👀 **Passionate about AI, Machine Learning & Cybersecurity** – also exploring app development & game design.  
 🌱 **Currently learning C#** and expanding my coding universe.  
