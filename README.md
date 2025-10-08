@@ -1,27 +1,43 @@
-### 🚀 Hi @ all👩‍🚀  
+# 👾 Welcome to the World of **Stella N3bula** 🌌
 
-👀 **Passionate about AI, Machine Learning & Cybersecurity** – also exploring app development & game design.  
-🌱 **Currently learning C#** and expanding my coding universe.  
-💡 **Driven by curiosity, creativity, and a love for tech.**  
+> “Between logic and chaos, there’s creativity - and that’s where I code.”
 
-### 👽 Who am I?  
-🛸 A creative mind with a passion for innovation.  
-🛸 Animal lover, nature enthusiast & fueled by imagination.  
-🛸 My core values: **Honesty, Loyalty & Integrity.**  
+### 🌱 About Me
+Hey, I’m **Stella N3bula** - a curious mind exploring the intersection of logic, art, and technology.  
+Right now, I’m on a journey through **C#**, **console development**, and the magic of bringing ideas to life through code.  
 
-### 🤖 How did I get into programming?  
-Ever since I was a teenager, I admired programmers and dreamed of coding myself. The movie **"Hackers"** sparked my fascination, but it wasn’t until **November 2023** that I finally embarked on my journey. Now, I’m diving deep into **C#** and beyond!  
+I believe every project, no matter how small, is a pixel in the bigger picture of learning.
 
-### ⚡ Fun fact:  
-I thrive in **creative chaos** – where the best ideas are born!  
+### 💡 What Drives Me
+🧠 Curiosity | 🎮 Creativity | ☕ Persistence  
+I code because I love discovering how things work and making them *my way*.  
+Every bug is just another riddle to crack.
 
-### 📫 How to reach me:  
-Feel free to connect with me here on GitHub!  
+### 🛠 Current Focus
+- Learning & practicing **C#** through small, self-built projects  
+- Exploring patterns, randomness, and game logic  
+- Writing clean, meaningful code that reflects creative thought
+
+### 🚀 Goals
+- Build a library of personal projects - each one a step on my journey  
+- Share progress, not perfection  
+- Keep the hacker spirit alive: always explore, always learn  
+
+### ✨ My Code Philosophy
+> “Code is poetry in binary form.”
+
+Code isn’t just commands - it’s a way to shape imagination into reality.  
+Sometimes I build tools, sometimes stories, sometimes glitches that look like art. 
+
+Every line I write is a rebellion against the ordinary.  
+I don’t just code.
+I *craft experiences*.  
+From console apps to abstract algorithms.
+Everything’s a canvas.
 
 
-  
 
-<!---
-StellaN3bula/StellaN3bula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+💬 *If you believe that curiosity and chaos can create beauty,  
+you’re already part of my world.🌐🔥*  
